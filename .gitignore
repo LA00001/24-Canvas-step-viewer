@@ -1,0 +1,38 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Archives
+*.zip
+*.7z
+*.rar
+
+# Inventor / local binaries
+Autodesk.Inventor.Interop.dll
+*.dll
+*.exe
+*.pdb
+
+# OS files
+Thumbs.db
+.DS_Store

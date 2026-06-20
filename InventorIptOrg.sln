@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventorIptOrg", "src\InventorIptOrg\InventorIptOrg.csproj", "{29771DB8-2552-46C0-8A8A-8BF50FA4DF4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxGridCore", "src\BoxGridCore\BoxGridCore.csproj", "{40E6B7EB-B353-4D3D-972F-030EB391B2B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeshViewCore", "src\MeshViewCore\MeshViewCore.csproj", "{D51C497A-9DD7-4124-85E3-508030E44A18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StepLiteCore", "src\StepLiteCore\StepLiteCore.csproj", "{48397485-E33C-46DD-B369-0DF9BD319C17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29771DB8-2552-46C0-8A8A-8BF50FA4DF4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29771DB8-2552-46C0-8A8A-8BF50FA4DF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29771DB8-2552-46C0-8A8A-8BF50FA4DF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29771DB8-2552-46C0-8A8A-8BF50FA4DF4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40E6B7EB-B353-4D3D-972F-030EB391B2B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40E6B7EB-B353-4D3D-972F-030EB391B2B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40E6B7EB-B353-4D3D-972F-030EB391B2B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40E6B7EB-B353-4D3D-972F-030EB391B2B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D51C497A-9DD7-4124-85E3-508030E44A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D51C497A-9DD7-4124-85E3-508030E44A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D51C497A-9DD7-4124-85E3-508030E44A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D51C497A-9DD7-4124-85E3-508030E44A18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48397485-E33C-46DD-B369-0DF9BD319C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48397485-E33C-46DD-B369-0DF9BD319C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48397485-E33C-46DD-B369-0DF9BD319C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48397485-E33C-46DD-B369-0DF9BD319C17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

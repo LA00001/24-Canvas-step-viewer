@@ -1,0 +1,27 @@
+InventorIptOrg v0.5.11 VISIBLE_VIEWPORT_CENTER_FIX
+
+Static source checks:
+- App version v0.5.11: OK
+- Build name VISIBLE_VIEWPORT_CENTER_FIX: OK
+- AssemblyVersion 0.5.11.0: OK
+- GetEffectiveViewerViewport: present
+- ancestor client-rectangle intersection: present
+- guarded Paint extent correction: present
+- full and reduced render dimensions use EffectiveViewport: present
+- backbuffer presents into EffectiveViewport: present
+- Mesh True Front v0.5.06 preserved: present
+- atomic backbuffer / FPS overlay preserved: present
+- DrawImageUnscaled invocation: absent (historical comment only)
+- C# lexical brace/paren/bracket balance: OK
+- Missing Compile Include: none
+- Missing ProjectReference: none
+- Solution projects: 4
+- Solution EndGlobal: OK
+
+Runtime evidence used:
+- v0.5.10 log Raw ClientSize: 1976x1167
+- v0.5.10 Paint Clip: 920x641
+- v0.5.10 final frame: 0.268 s
+- v0.5.10 first drag frame: 244.369 ms
+
+Visual Studio and Inventor were not run in this environment.

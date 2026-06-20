@@ -1,0 +1,28 @@
+InventorIptOrg v0.5.08 DRAG_BACKBUFFER_FPS — static package check
+
+version_app: True
+build_name: True
+assembly_version: 0.5.8.0
+buffered_viewer_panel: True
+optimized_double_buffer: True
+all_painting_in_wm_paint: True
+explicit_32bpp_backbuffer: True
+atomic_frame_swap: True
+drag_timer_target_fps_30: True
+mouse_move_coalescing: True
+reduced_resolution_shaded_drag: True
+fps_overlay: True
+drag_frame_stats_logging: True
+drag_session_summary_logging: True
+capture_lost_recovery: True
+high_frequency_step_log_suppression: True
+true_front_final_renderer_preserved: True
+historical_mode_version_preserved: Mode: Mesh True Front — v0.5.06
+Missing Compile Include: {}
+Missing ProjectReference: {}
+Missing solution project: {}
+C# lexical balance: OK
+Solution projects: 4
+Solution EndGlobal: OK
+Visual Studio compile: NOT RUN in package environment
+Inventor runtime: NOT RUN in package environment

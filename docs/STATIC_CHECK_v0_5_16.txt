@@ -1,0 +1,28 @@
+﻿STATIC CHECK v0.5.16 CANVAS_ONLY_GITHUB_PREP
+
+version_app: True
+build_name: True
+assembly_version: True
+single_visible_tab: True
+startup_attach_removed: True
+fire_mode_v0507: True
+fire_fps_v0513: True
+mode_width_380: True
+fps_width_380: True
+source_local_only: True
+default_mode_v0507: True
+default_fps_v0513: True
+visible_toolbar_safe_only: True
+boxgrid_option_hidden: True
+repo_24_metadata: True
+dependency_audit: True
+missing_compile_include_empty: True
+csharp_lexical_balance: True
+
+Visible toolbar Controls.Add order: ButtonIptCanvasOpenStepFile, buttonCanvasResetView, ButtonIptViewerOptions, comboBoxIptViewerSource, comboBoxIptViewerRenderMode, comboBoxIptViewerFpsMode
+Missing project items: []
+C# files checked: 27
+Max relative path: 70 — docs/COMPARISON_v0_4_1_RUNFIX_to_v0_4_30_REAL_CAMERA_ASPECT_CORRECT.md
+
+Visual Studio and Inventor were not run in this environment.
+The visible workflow is Autodesk-call-free, but the legacy main project still retains Autodesk.Inventor.Interop as documented.

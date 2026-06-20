@@ -1,0 +1,18 @@
+﻿v0.5.16 CANVAS_ONLY_GITHUB_PREP
+
+The application shows only .ipt canvas and does not attach to Inventor from the visible startup path.
+Important: the historical InventorIptOrg.csproj still has a compile-time reference to Autodesk.Inventor.Interop.dll because legacy source is retained. Visual Studio must resolve that reference to build this project.
+
+Open InventorIptOrg.sln, build x64/Any CPU, run, press ST Step and choose a .stp/.step file.
+
+---
+
+How to run:
+
+1. Open Visual Studio.
+2. Open InventorIptOrg.sln.
+3. Restore references if Visual Studio asks.
+4. Build Release Any CPU.
+5. Start Inventor.
+6. Run InventorIptOrg.exe.
+7. Use Custom rect select REAL CAMERA v0.4.30.

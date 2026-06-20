@@ -1,0 +1,22 @@
+InventorIptOrg v0.5.13 CURSOR_SAMPLED_DRAG_LOOP static package check
+
+version_app: True
+build_name: True
+assembly_version: 0.5.13.0
+wm_paint_presentation_only_during_drag: True
+cursor_position_sampling: True
+direct_reduced_render_outside_paint: True
+immediate_backbuffer_present: True
+present_fps_metric: True
+render_capacity_fps_metric: True
+adaptive_scale_range: 0.30..0.62
+adaptive_target_frame_ms: 30.0
+true_front_v0_5_06_preserved: True
+default_filtered_cube_mode: True
+Missing Compile Include: {}
+Missing ProjectReference: {}
+C# lexical balance: OK
+Solution projects: 4
+
+Visual Studio and Autodesk Inventor were not available in this environment.
+This check covers source/package structure and lexical/static integrity only.

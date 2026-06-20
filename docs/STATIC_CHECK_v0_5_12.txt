@@ -1,0 +1,18 @@
+InventorIptOrg v0.5.12 ADAPTIVE_DRAG_DIRECT_SWAP static check
+
+version_app: True
+build_name: True
+assembly_version: 0.5.12.0
+adaptive_scale_range_0_32_0_58: True
+target_frame_ms_40: True
+direct_reduced_backbuffer_swap: True
+full_size_drag_copy_removed: True
+reduced_diagnostic_scans_bypassed: True
+zero_motion_mousedown_frame_removed: True
+visible_viewport_center_preserved: True
+true_front_v0_5_06_preserved: True
+default_filtered_cube_mode: True
+Missing Compile Include: {}
+Missing ProjectReference: {}
+C# lexical balance: OK
+Visual Studio / Inventor runtime: not executed here

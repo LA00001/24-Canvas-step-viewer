@@ -1,0 +1,20 @@
+InventorIptOrg v0.5.09 DRAG_CAMERA_CENTER_LOCK — static package check
+
+version_app: v0.5.09
+build_name: DRAG_CAMERA_CENTER_LOCK
+assembly_version: 0.5.9.0
+step_fit_mode: SymmetricModelCenter
+orbit_target: ModelBoundsCenter
+screen_center_locked: True
+mouse_anchor_affects_pivot: False
+reduced_drag_center_scale: True
+explicit_pan_preserved: True
+atomic_backbuffer_preserved: True
+fps_overlay_preserved: True
+true_front_method_preserved: True
+triangle_diagonals_included: False
+default_filtered_cube_mode: True
+Missing Compile Include: {}
+Missing ProjectReference: {}
+C# lexical balance: OK
+Visual Studio/Inventor runtime: not executed in this environment

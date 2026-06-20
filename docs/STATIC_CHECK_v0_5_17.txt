@@ -1,0 +1,16 @@
+﻿InventorIptOrg v0.5.17 WARNING_FREE_CANVAS_BUILD
+
+Source-level checks:
+- App version v0.5.17: PASS
+- Build name WARNING_FREE_CANVAS_BUILD: PASS
+- Assembly version 0.5.17.0: PASS
+- CanvasOnlyGitHubMode is static readonly: PASS
+- CanvasOnlyGitHubMode is not const: PASS
+- Historical v0.5.16 comment block preserved: PASS
+- .ipt canvas-only behavior preserved: PASS
+- Verified fire-marked Mode/FPS defaults preserved: PASS
+- Missing Compile Include: none
+- Missing ProjectReference: none
+- ZIP integrity: OK (verified after final package creation)
+
+Visual Studio and Inventor were not run in the packaging environment.

@@ -1,0 +1,44 @@
+InventorIptOrg v0.5.15 static package check
+
+version_app: True
+build_name: True
+build_token: True
+assembly_version: True
+mode_v0506: True
+mode_v0507: True
+mode_v0507_profile: True
+mode_v0507_same_light: True
+fps_v0_5_08: True
+fps_v0_5_09: True
+fps_v0_5_10: True
+fps_v0_5_11: True
+fps_v0_5_12: True
+fps_v0_5_13: True
+fps_no_v0506: True
+fps_no_v0507: True
+fps_default_v0513: True
+fps_parser_starts_v0508: True
+true_front_lighting_both: True
+compile_fix_no_redeclare: True
+source_audit_doc: True
+source_hash_doc: True
+csharp_lexical_balance: True
+missing_compile_none: True
+missing_project_refs_none: True
+solution_projects_4: True
+solution_endglobal: True
+max_path_le_100: True
+no_githubready: True
+
+Historical grouping:
+  Mode: v0.5.06 + v0.5.07 compile-fix profile
+  FPS: v0.5.08 .. v0.5.13 only
+
+Missing Compile Include: []
+Missing ProjectReference: []
+Solution projects: 4
+Files: 168
+Max internal path: 70
+Failed checks: []
+
+Visual Studio and Inventor were not available in this environment; this is a static source/package validation.

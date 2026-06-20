@@ -1,0 +1,25 @@
+InventorIptOrg v0.5.10 DRAG_DPI_CENTER_FIX — static package check
+
+version_app: True
+build_name: True
+assembly_version: True
+viewer_explicit_pixel_present: True
+zbuffer_explicit_pixel_present: True
+bitmap_dpi_inherited: True
+pixel_page_unit: True
+visual_center_lock: True
+fixed_orbit_pivot: True
+backbuffer_mapping_log: True
+drag_pipeline_preserved: True
+true_front_preserved: True
+drawimageunscaled_calls_removed: True
+csharp_lexical_balance: True
+missing_compile_empty: True
+missing_project_refs_empty: True
+
+Missing Compile Include: []
+Missing ProjectReference: []
+C# lexical state: code
+C# unmatched opens: 0
+C# extra closes: 0
+Visual Studio and Inventor were not run in this environment.
